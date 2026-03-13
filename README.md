@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chiakanw
-- 👀 I’m interested in Neuroscience, Data, Reading and Conservation.
-- 🌱 I’m currently work as a Machine Learning Engineer.
-- 💞️ I’m looking to collaborate on projects using SQL and Python.
+- 👀 I’m interested in Research, Data and Conservation.
+- 🧠 Background in Neuroscience
+- 🌱 Currently work as a Machine Learning Engineer.
+- 💞️ Looking to collaborate on projects using SQL, R and Python.
 - 📫 Reach me on LinkedIn!
 
 <!---
