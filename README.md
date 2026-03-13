@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiakanw
+- 👋 Hi, I’m Chiaka
 - 👀 I’m interested in Research, Data and Conservation.
 - 🧠 Background in Neuroscience
 - 🌱 Currently work as a Machine Learning Engineer.
